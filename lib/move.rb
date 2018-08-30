@@ -10,11 +10,11 @@ def display_board()
 
 end
 def input_to_index(user_input)
-#convert string 
+#convert string
   ma = user_input.to_i
   #-1
   index = ma - 1
-return index 
+return index
 end
 
 def move()
