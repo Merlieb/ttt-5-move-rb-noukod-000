@@ -20,9 +20,7 @@ end
 def move(board, position, char = "X")
 #board[0] = "X"
 #board[4] = "O"
-board[position] = char
+return board[position] = char
 return board
-
-
 end
 # code your input_to_index and move method here!
