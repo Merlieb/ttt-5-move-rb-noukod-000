@@ -18,7 +18,7 @@ return index
 end
 
 def move(board, position, char)
-  
+
 
 end
 # code your input_to_index and move method here!
