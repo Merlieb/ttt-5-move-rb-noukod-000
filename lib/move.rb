@@ -18,7 +18,7 @@ return index
 end
 
 def move(board, position, char = "X")
-board[0] = char
+board[0] = "X"
 board[position] = char
 return board
 
