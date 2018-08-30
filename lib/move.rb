@@ -18,7 +18,7 @@ return index
 end
 
 def move(board, position, char = "x")
-  
+
 
 
 end
